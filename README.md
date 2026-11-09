@@ -21,8 +21,6 @@ Designed three dashboard pages:
 2. **Price & Mileage Analysis** – Asking-price patterns and vehicle characteristics.
 3. **Pricing Review Queue** – Peer-price comparisons and unusual listing identification.
 
-*The dashboard is currently a prototype using reported summary figures.*
-
 ## Business Recommendations
 - Improve data validation to reduce duplicate and inconsistent listings.
 - Use median prices for more reliable vehicle comparisons.
