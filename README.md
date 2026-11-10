@@ -10,7 +10,6 @@ Analysed **17,048 Australian vehicle listings** using PostgreSQL to explore mark
 
 ## Key Findings
 - Identified **65 duplicate listings**, leaving 16,982 analysable records after data-quality exclusions.
-- Found that the top 12 brands accounted for **80.2%** of listings.
 - Used vehicles had a median asking price of **A$29,888**, compared with a mean of **A$35,639**.
 - Found that vehicle age, mileage, and model were strongly associated with asking prices.
 - Developed a comparable-vehicle pricing benchmark covering **75.7%** of used listings and flagged **328 high-priority listings** for review.
@@ -18,6 +17,8 @@ Analysed **17,048 Australian vehicle listings** using PostgreSQL to explore mark
 ## Power BI Dashboard
 Designed three dashboard pages:
 1. **Market Overview** – Listing distribution by brand and vehicle category.
+   <img width="1202" height="680" alt="image" src="https://github.com/user-attachments/assets/54de02a7-6f34-4393-b4a5-99cb9f4e7bb4" />
+
 2. **Price & Mileage Analysis** – Asking-price patterns and vehicle characteristics.
 3. **Pricing Review Queue** – Peer-price comparisons and unusual listing identification.
 
